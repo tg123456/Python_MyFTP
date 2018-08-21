@@ -23,11 +23,11 @@
 实现功能模块：登录、注册、文件管理，文件上传，文件下载,断点续传，进度条显示(当文件比较大时比较明显)
 
 服务端：
-    注册用户的目录、文件上传下载目录：\FTPHomework\ftp_server\download\
-    断点续传保存目录：\FTPHomework\ftp_server\breakpoint_resume
+    注册用户的目录、文件上传下载目录：\ftp_server\download\
+    断点续传保存目录：\ftp_server\breakpoint_resume
 客户端：
-    文件下载目录：\FTPHomework\ftp_client\download
-    断点续传保存目录：\FTPHomework\ftp_client\breakpoint_resume
+    文件下载目录：\ftp_client\download
+    断点续传保存目录：\ftp_client\breakpoint_resume
 
 
 自我感觉：代码混乱
